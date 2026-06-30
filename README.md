@@ -1,5 +1,7 @@
 🏠 House Price Prediction using Linear Regression
+
 📌 Project Overview
+
 This project predicts house prices using Machine Learning (Linear Regression).
 It follows a complete ML pipeline including:
 
@@ -10,6 +12,7 @@ Evaluation
 Visualization
 
 📊 Workflow
+
 Data Loading
 Data Cleaning
 Feature Engineering
@@ -27,6 +30,7 @@ R² Score: 0.6196
 
 .
 🛠️ Tech Stack
+
 Python 🐍
 Pandas
 NumPy
@@ -38,15 +42,18 @@ Actual vs Predicted Prices 📉
 Error Distribution Plot 📊
 
 📁 Dataset
+
 HousePricePrediction.csv (included in this repository)
 
 💡 Future Improvements
+
 Use advanced models (Random Forest / XGBoost 🌳)
 Improve feature selection
 Handle outliers more effectively
 Perform hyperparameter tuning
 
 👨‍💻 Author
+
 Dua
 BS IT Student | Machine Learning Enthusiast | Cybersecurity Learner
 
